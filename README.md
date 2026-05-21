@@ -35,10 +35,10 @@ NJNU-e-LabKit 是一个面向电子专业学生的实验报告生成模板。通
 
 ```bash
 # 克隆项目
-git clone https://github.com/WeightedAverage/NJNU-e-LabKit.git
+git clone https://github.com/WeightedAverage/NJNU-LabReport.git
 
 # 进入项目目录
-cd NJNU-e-LabKit
+cd NJNU-LabReport
 
 # 复制到你的实验目录
 xcopy /E /I . "D:\实验报告\数字电子技术\实验三"
