@@ -10,6 +10,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 使用方法
 
+### 方式一：使用 Claude Code Skill（推荐）
+
+1. 复制整个文件夹到实验目录
+2. 把实验讲义放到 "05-实验讲义/" 或编辑 "实验信息.txt"
+3. 在终端运行 `claude` 进入交互模式
+4. 输入：`开始写实验报告`
+5. Claude 会自动读取讲义并生成报告
+
+### 方式二：使用 Python 脚本
+
 1. 复制整个文件夹到实验目录
 2. 把实验讲义放到 "05-实验讲义/" 或编辑 "实验信息.txt"
 3. 在终端运行：`python generate_report.py`

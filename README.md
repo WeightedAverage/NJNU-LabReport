@@ -103,7 +103,9 @@ NJNU-e-LabKit/
 
 ## 使用 Claude Code（推荐）
 
-本项目专为 Claude Code CLI 设计。使用方法：
+本项目专为 Claude Code CLI 设计，支持两种使用方式：
+
+### 方式一：使用 Skill（推荐）
 
 1. 安装 [Claude Code](https://claude.ai/code)
 2. 在实验文件夹中启动终端
@@ -111,6 +113,16 @@ NJNU-e-LabKit/
 4. 输入：`开始写实验报告`
 
 Claude 会自动读取讲义内容并生成报告。
+
+### 方式二：使用 Python 脚本
+
+```bash
+python generate_report.py
+```
+
+选择生成方式：
+- **方案一**：生成 Word 报告（自动填充模板）
+- **方案二**：生成 Markdown 大纲（手动复制到模板）
 
 ## 实验信息格式
 
