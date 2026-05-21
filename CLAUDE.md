@@ -43,9 +43,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ├── 06-实验材料/          实验代码和数据
 │   ├── 代码工程/         实验代码、工程文件
 │   └── 实验数据/         测试数据、测量结果
+├── 07-使用说明/          使用说明文档
 ├── generate_report.py    主生成脚本
 ├── word_helper.py        Word辅助工具
-├── 使用说明.txt          使用说明
 └── 实验信息.txt          备选，没有讲义时用
 ```
 
