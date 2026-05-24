@@ -196,6 +196,12 @@ MIT License
 
 欢迎提交 Issue 和 Pull Request。
 
-## 联系方式
+## 作者
 
-如有问题，请通过 GitHub Issues 反馈。
+<p align="left">
+  <img src="logo.jpg" width="80" style="border-radius: 50%;" alt="头像">
+  <br>
+  <b>加权平均数</b>
+  <br>
+  <a href="mailto:findme@xiaoding.club">findme@xiaoding.club</a>
+</p>
