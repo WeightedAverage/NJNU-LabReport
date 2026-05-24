@@ -2,6 +2,14 @@
 
 内江师范学院电子专业实验报告自动生成工具
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WeightedAverage/NJNU-LabReport/main/logo.jpg" width="150" alt="头像">
+  <br>
+  <b>加权平均数</b>
+  <br>
+  <a href="mailto:findme@xiaoding.club">findme@xiaoding.club</a>
+</div>
+
 ## 简介
 
 NJNU-e-LabKit 是一个面向电子专业学生的实验报告生成模板。通过 AI（Claude Code）自动读取实验讲义，生成符合学校格式要求的实验报告。
@@ -195,9 +203,3 @@ MIT License
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request。
-
-## 作者
-
-![头像](https://raw.githubusercontent.com/WeightedAverage/NJNU-LabReport/main/logo.jpg)
-
-**加权平均数** · [findme@xiaoding.club](mailto:findme@xiaoding.club)
