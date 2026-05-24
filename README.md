@@ -41,7 +41,7 @@ git clone https://github.com/WeightedAverage/NJNU-LabReport.git
 cd NJNU-LabReport
 
 # 复制到你的实验目录
-xcopy /E /I . "D:\实验报告\数字电子技术\实验三"
+xcopy /E /I . "D:\LabReports\DigitalElectronics\Lab3"
 ```
 
 ## 快速开始
@@ -57,7 +57,7 @@ pip install python-docx PyPDF2
 将整个文件夹复制到你的实验报告目录：
 
 ```
-D:\实验报告\数字电子技术\实验三
+D:\LabReports\DigitalElectronics\Lab3
 ```
 
 ### 3. 准备实验信息
