@@ -198,10 +198,6 @@ MIT License
 
 ## 作者
 
-<p align="left">
-  <img src="logo.jpg" width="80" style="border-radius: 50%;" alt="头像">
-  <br>
-  <b>加权平均数</b>
-  <br>
-  <a href="mailto:findme@xiaoding.club">findme@xiaoding.club</a>
-</p>
+![头像](https://raw.githubusercontent.com/WeightedAverage/NJNU-LabReport/main/logo.jpg)
+
+**加权平均数** · [findme@xiaoding.club](mailto:findme@xiaoding.club)
