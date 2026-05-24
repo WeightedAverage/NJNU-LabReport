@@ -1,6 +1,6 @@
-# NJNU-e-LabKit
+# 内江师范学院电子信息专业实验报告自动生成工具
 
-内江师范学院电子专业实验报告自动生成工具
+NJNU-e-LabKit
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/WeightedAverage/NJNU-LabReport/main/logo.jpg" width="150" alt="头像">
@@ -12,9 +12,9 @@
 
 ## 简介
 
-NJNU-e-LabKit 是一个面向电子专业学生的实验报告生成模板。通过 AI（Claude Code）自动读取实验讲义，生成符合学校格式要求的实验报告。
+NJNU-e-LabKit 是一个面向电子信息专业学生的实验报告生成模板。通过 AI（Claude Code）自动读取实验讲义，生成符合学校格式要求的实验报告。
 
-支持课程：数字电子技术、模拟电子技术、单片机原理、嵌入式系统、通信原理等电子专业所有实验课程。
+支持课程：数字电子技术、模拟电子技术、单片机原理、嵌入式系统、通信原理等电子信息专业所有实验课程。
 
 ## 功能特性
 
